@@ -1,0 +1,10 @@
+E:\1.metrodata\WEEK 3\butcham\butcham1\butcham1\bin\Debug\butcham1.exe.config
+E:\1.metrodata\WEEK 3\butcham\butcham1\butcham1\bin\Debug\butcham1.exe
+E:\1.metrodata\WEEK 3\butcham\butcham1\butcham1\bin\Debug\butcham1.pdb
+E:\1.metrodata\WEEK 3\butcham\butcham1\butcham1\bin\Debug\EntityFramework.dll
+E:\1.metrodata\WEEK 3\butcham\butcham1\butcham1\bin\Debug\EntityFramework.SqlServer.dll
+E:\1.metrodata\WEEK 3\butcham\butcham1\butcham1\bin\Debug\EntityFramework.xml
+E:\1.metrodata\WEEK 3\butcham\butcham1\butcham1\bin\Debug\EntityFramework.SqlServer.xml
+E:\1.metrodata\WEEK 3\butcham\butcham1\butcham1\obj\Debug\butcham1.csprojResolveAssemblyReference.cache
+E:\1.metrodata\WEEK 3\butcham\butcham1\butcham1\obj\Debug\butcham1.exe
+E:\1.metrodata\WEEK 3\butcham\butcham1\butcham1\obj\Debug\butcham1.pdb
